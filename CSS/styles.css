@@ -207,6 +207,10 @@ nav>ul>li>a:hover::after{
     transform: translateY(-10px);
 }
 
+.skills-list>div>ul>li{
+    margin-top: 10px;
+}
+
 /* ------------------Projects---------------------- */
 
 #projects{
